@@ -35,7 +35,8 @@ GrowGenius is a revolutionary IoT-based smart gardening solution that combines t
 
 ## 📱 App Preview
 
-[Insert app mockup screenshots here arranged in a grid]
+<img width="1600" alt="cover" src="https://github.com/user-attachments/assets/18ff533c-9240-455d-987d-b315c75c68fa" />
+
 
 ## 🛠️ Technology Stack
 
