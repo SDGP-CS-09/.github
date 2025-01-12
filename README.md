@@ -1,8 +1,8 @@
 <div align="center">
-  
-# 🌱 BLOOM
 
-[Insert your logo here]
+<img width="183" alt="Logo--1" src="https://github.com/user-attachments/assets/03aa8a59-c929-427b-a001-a934cf57446b" />
+
+
 
 ### Your Smart Gardening Companion
 
