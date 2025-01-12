@@ -3,6 +3,10 @@
 <img width="183" alt="Logo--1" src="https://github.com/user-attachments/assets/03aa8a59-c929-427b-a001-a934cf57446b" />
 
 
+![Logo--1](https://github.com/user-attachments/assets/b4273a48-fc74-46a6-be94-df9976e44598)
+
+![Logo--1](https://github.com/user-attachments/assets/b1e06886-0bd6-4346-aa5d-fbf056332789)
+
 
 ### Your Smart Gardening Companion
 
