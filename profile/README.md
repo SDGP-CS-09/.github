@@ -83,7 +83,7 @@ We welcome contributions! Please read our [Contributing Guidelines](link-to-cont
 ## 📫 Contact Us
 
 - 📧 Email: bloom@gmail.com
-- 🌐 Website: bloom.com
+- 🌐 Website: bloomapp.space
 - 📱 Social Media: https://www.instagram.com/bloom.w.us/
 
 ## 📄 License
