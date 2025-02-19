@@ -19,7 +19,7 @@
 
 ## 🚀 About Bloom
 
-GrowGenius is a revolutionary IoT-based smart gardening solution that combines traditional knowledge with cutting-edge technology. Our mission is to empower gardeners, small-scale farmers, and plant enthusiasts with intelligent tools for better cultivation.
+Bloom is a revolutionary IoT-based smart gardening solution that combines traditional knowledge with cutting-edge technology. Our mission is to empower gardeners, small-scale farmers, and plant enthusiasts with intelligent tools for better cultivation.
 
 ### 🌟 Key Features
 
